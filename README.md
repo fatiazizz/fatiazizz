@@ -1,4 +1,7 @@
-## Hi there 👋
+## 
+Business Analyst with 8+ years of experience improving workflows, supporting ERP systems, and translating business needs into technical solutions.
+
+Currently building full-stack and AI-assisted applications focused on automating business processes and reducing operational inefficiencies.
 
 <!--
 **fatiazizz/fatiazizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
